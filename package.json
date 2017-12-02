@@ -1,17 +1,14 @@
 {
   "name": "eslint-config-eslint-prettier-plugin",
   "version": "1.0.0",
-  "description": "cross project eslint and prettier settings",
+  "description": "Hassle free eslint and prettier settings",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "eslint",
     "prettier"
   ],
-  "author": "Shane Unger",
-  "license": "ISC",
+  "author": "Garrett Tacoronte",
+  "license": "MIT",
   "dependencies": {
     "babel-eslint": "^8.0.2",
     "eslint": "^4.12.1",
